@@ -40,6 +40,7 @@ and activate them.
 
 ## Soundboard
 put your files into the `sounds`dir and edit the `telephonebook.txt` file
+A nice source for soundfiles is the [asterisk][10] collection.
 
 # Features
 - Ring the phone via web interface and play a default soundfile
@@ -61,3 +62,4 @@ To disable that just comment out Lines `29` and `30` in [player.py][9]
 [7]:optionphone.fzz
 [8]:https://learn.adafruit.com/adding-basic-audio-ouput-to-raspberry-pi-zero/pi-zero-pwm-audio
 [9]:player.py#L29
+[10]:https://downloads.asterisk.org/pub/telephony/sounds/
