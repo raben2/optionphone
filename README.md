@@ -8,7 +8,7 @@ The project for the final exhibition of my wife's communications design study.
 1. [Raspi Zero W][1] I fried one model because of a cheap soldering iron, for second try i used the model with pre soldered headers.
 
 2. The [W49][2]
-![W49](img/phone.jpg)
+![W49](img/phone.jpeg)
 
 3. For ringing the bell i used two Keystudio 5V [electric magnets][5]
 4. A [proper][3] soldering iron, i choose the Weller after my 30y old iron fried the first raspi.
@@ -19,7 +19,7 @@ The project for the final exhibition of my wife's communications design study.
 ![freetz](img/optionphone.svg)
 
 After assembling
-![build in phone](img/internals.jpg)
+![build in phone](img/internals.jpeg)
 The magnets are fixated using [fimo][6] due to the lack of a proper 3d printer.
 
 Find details about the parts in the circut in the [freetz sketch][7]
