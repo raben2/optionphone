@@ -1,0 +1,10 @@
+[Unit]
+Description=optionphone player
+
+[Service]
+User=pi
+Group=pi
+ExecStart=/home/pi/player.py &
+
+[Install]
+WantedBy=multi-user.target

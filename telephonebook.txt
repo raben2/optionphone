@@ -1,0 +1,17 @@
+0666,zombies.wav
+1111,woo_hoo_call_first.wav
+1234,unicorn_blood_MIXDOWN.wav
+2001,sorrydave.wav
+2002,sorry-cant-let-you-do-that.wav
+2508,option2.wav
+2058,teletubbie-murder.wav
+2509,privacy-stop-calling-not-welcome2.wav
+2507,busy-hangovers.wav
+2500,abandon-all-hope.wav
+2805,that-tickles.wav
+2222,option.wav
+1337,trollolol.wav
+0110,duke_nukem_time_to_kick_ass.
+2121,rollin.wav
+2122,classic.wav
+0303,pickle-rick.wav

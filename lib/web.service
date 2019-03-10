@@ -1,0 +1,12 @@
+[Unit]
+Description=option phone web
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=root
+Group=root
+ExecStart=/home/pi/web.py
+
+[Install]
+WantedBy=multi-user.target
