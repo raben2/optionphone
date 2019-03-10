@@ -2,7 +2,7 @@ Optionphone
 ===========
 
 Build a IoT Telephone using a classical [W49][2] Rotary dialphone.
-The project for the final exhibition of my wife's communications design study. 
+The Phone is a gymic for the final exhibition of my wife's communications design study. 
 
 # Hardware
 1. [Raspi Zero W][1] I fried one model because of a cheap soldering iron, for second try i used the model with pre soldered headers.
